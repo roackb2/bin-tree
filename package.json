@@ -1,0 +1,28 @@
+{
+  "name": "bin-tree",
+  "version": "1.0.0",
+  "description": "Binary search tree for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roackb2/bin-tree.git"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "tree",
+    "node.js"
+  ],
+  "author": "Jay Liang <roackb2@gmail.com> (https://www.facebook.com/profile.php?id=1391931108)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roackb2/bin-tree/issues"
+  },
+  "homepage": "https://github.com/roackb2/bin-tree#readme",
+  "dependencies": {
+    "uuid": "^2.0.1"
+  }
+}
